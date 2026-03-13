@@ -1,0 +1,14 @@
+{
+  "name": "smtp-mailer",
+  "version": "1.0.0",
+  "description": "SMTP邮件发送技能，支持通过SMTP协议发送邮件",
+  "main": "scripts/send-mail.js",
+  "scripts": {
+    "send": "node scripts/send-mail.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.8"
+  },
+  "keywords": ["smtp", "email", "mailer"],
+  "license": "MIT"
+}
