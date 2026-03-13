@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+config/smtp-config.json
+config/feishu-config.json
+*.log
+.DS_Store
